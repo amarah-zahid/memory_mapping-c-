@@ -1,4 +1,4 @@
-# memory_mapping-c-
+# memory_mapping-c++(for linux)
 **What is Memory Mapping?**
 Memory mapping is a process used in computers to assign memory addresses to different hardware devices, files, or data in RAM. It allows the CPU to access data quickly without worrying about the actual physical location of the data.
 **How Does File Memory Mapping Work?**
